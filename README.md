@@ -1,2 +1,2 @@
 # Mapping_Converter_EF6_to_EFCore
-Simple powershell to convert mappings from EF6 to EF Core
+Simple powershell script to convert mappings from EF6 to EF Core
